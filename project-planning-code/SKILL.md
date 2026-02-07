@@ -1,11 +1,6 @@
 ---
-name: plan-project
-description: "Brainstorm and define a new project through guided discussion"
-allowed-tools:
-  - Read
-  - Write
-  - Glob
-  - TodoWrite
+name: project-planning-code
+description: Brainstorm and define a new project through guided discussion. Use when the user has a new idea, wants to plan a project, or needs help going from a fuzzy concept to a clear definition. Identifies gray areas, runs focused discussion loops on each area, and writes a single actionable project-summary.md to the working directory with all decisions captured.
 ---
 
 <objective>

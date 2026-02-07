@@ -12,7 +12,7 @@ Inspired by [GSD](https://github.com/glittercowboy/get-shit-done), stripped down
 
 **Two versions:**
 
-| File | Use With |
+| Skill Directory | Use With |
 |------|----------|
-| `project-planning/skill.md` | Claude Web (paste as project instructions or system prompt) |
-| `project-planning/skill-claude-code.md` | Claude Code (place in `.claude/commands/` as a slash command) |
+| `project-planning/` | Claude Web / Claude.ai (upload as skill or use as project instructions) |
+| `project-planning-code/` | Claude Code (place in `.claude/skills/`) |
